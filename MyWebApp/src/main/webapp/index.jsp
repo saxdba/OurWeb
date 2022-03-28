@@ -3,7 +3,7 @@
 <body>
 
 <h1 style="font-family:verdana;">Welcome to my Village</h1>
-<p style="font-family:courier;">This is where i was made a king</p>
+<p style="font-family:courier;">This is where i was made a king. </p>
 <h1 style="color:Tomato;">But i woke up to reality</h1>
 <p style="color:DodgerBlue;">Everything ti Zeh!!!! Zazu</p>
 <img src="pic_trulli.jpg" alt="Italian Trulli">
